@@ -20,12 +20,13 @@ Tuesday, January 28th 2025
 **AGENDA:**
 
 1. How to Spot a Phishing Email: With Examples
-2. Phishing Attacks
+2. Phishing Attacks vs. Phishing Attempts
+3. Phishing Attacks
    * Definition
    * Characteristics
    * Protecting Aganist Phishing Attacks
-3. Phishing or Not Phishing
-4. AP Classroom Videos and Practice
+4. Phishing or Not Phishing
+5. AP Classroom Videos and Practice
 
 **ASSIGNMENT:** 
 <br>[Unit 0 Assignment 01 - AP Classroom Practice Set 17 - Phishing](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2_Spring_2025/blob/main/Unit_0_Safe_Computing/Assignments/01_AP_Classroom_Practice_Set_17_Phishing.md)
@@ -45,7 +46,7 @@ Tuesday, January 28th 2025
       <ul>
         <li>...Personal information is compromised.</li>
         <li>...The individual gives away their own personal information (They are not hacked).</li>
-        <li>...The individual is tricked into giving it away. </li>
+        <li>...The individual is tricked into giving it away (They do not do it voluntarily). </li>
       </ul>
     </td>
   </tr>
@@ -75,6 +76,40 @@ Tuesday, January 28th 2025
     <td><b>Examples of Scenarios that are NOT Phishing Attacks</b></td>
     <td>
     <b>Example 1/</b> A user posts a photo of their new driver's license on social media, excited about finally getting it. They don't realize that the photo clearly shows their full name, address, and driver's license number.  <br><br><i>This is not a phishing attack because the user posted their license voluntarily.  They weren't tricked into posting it.</i><br><br><b>Example 2/</b> A company's database is hacked, and consumer data, including names, addresses, and credit card information is stolen. <br><br><i>This is not a phishing attack because the consumers didn't give away their own data.  It was stolen.</i><br><br><b>Example 3/</b> An individual's email is hacked because their password was easy to guess.<br><br><i>This is not a phishing attack because even though the user created a password that was easy to guess, they didn't give it away.</i><br><br><b>Example 4/</b> A user unknowingly downloads a keylogger onto their computer through a malicious email attachment or software. The keylogger records every keystroke they make, including their usernames, passwords, and credit card details. This information is then sent to the attacker.<br><br><i>This is not a phishing attack because their information was accessed using a keylogger.  The user did not give it away.</i><br><br><b>Example 5/</b> A popular online gaming platform suddenly becomes unavailable because its servers are being deliberately flooded with a large amount of traffic to prevent users from being able to access the platform.<br><br><i>This is not a phishing attack because no personal information is being given away.
+    </td>
+  </tr>
+  <tr>
+    <td><b>Characteristics of Phishing Attacks</b></td>
+    <td>
+      <ul>
+        <li>Unknown senders.</li>
+        <li>Generic greetings.</li>
+        <li>Suspicious links.</li>
+        <li>Offers that seem to good to be be true.</li>
+        <li>A sense of urgency.</li>
+        <li>Grammar / spelling errors.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Protecting Against Phishing Attacks</b></td>
+    <td>
+      <ul>
+        <li>Do not respond.</li>
+        <li>Do not click links you don't recognize.</li>
+        <li>Verify the sender:
+          <ul>
+            <li>Call an official number.</li>
+            <li>Send an email to an official email.</li>
+            <li>Login to an official acccount.</li>
+            <li>Do not trust the contact information provided by the sender.</li>
+          </ul>
+        </li>
+        <li>Watch out for offers that seem to good to be true or demand an immediate response.</li>
+        <li>Do not give in to pressure.</li>
+        <li>Report all phishing attacks.</li>
+        <li><b>DON'T BE FOOLED</b> - Phishers are getting better and better at impersonating websites, URLS, phone numbers, etc.</li>
+      </ul>
     </td>
   </tr>
 </table>
