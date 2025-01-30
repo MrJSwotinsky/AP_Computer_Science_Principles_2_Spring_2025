@@ -24,6 +24,7 @@ Tuesday, January 28th 2025
 3. Phishing Attacks
    * Definition
    * Characteristics
+   * Examples
    * Protecting Aganist Phishing Attacks
 4. Phishing or Not Phishing
 5. AP Classroom Videos and Practice
