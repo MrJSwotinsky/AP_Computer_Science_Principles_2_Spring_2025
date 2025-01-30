@@ -54,7 +54,7 @@ Thursday, January 30th 2025
   <tr>
     <td><b>Examples of Keylogging Attacks</b></td>
     <td>
-    <b>Example 1/</b> You buy a cheap keyboard online that has hidden software installed.  The hidden software records everything you type, including passwords, credit card details, etc., and secretly sends it to an unauthorized individual.<br><br><b>Example 2/</b> You click a link on your social media feed that secretly downloads software to your mobile device.  The software secretly captures every photo and video you take and sends it to an unauthoried individual.<br><br><b>Example 3/</b> You inadvertently download malicious software disguised as a homework helper app.  The software records every tap and swipe you make and sends it to an unauthorized individual.<br>
+    <b>Example 1/</b> You buy a cheap keyboard online that has hidden software installed.  The hidden software records everything you type, including passwords, credit card details, etc., and secretly sends it to an unauthorized individual.<br><br><b>Example 2/</b> You click a link on your social media feed that secretly downloads software to your mobile device.  The software secretly captures every photo and video you take and sends it to an unauthorized individual.<br><br><b>Example 3/</b> You inadvertently download malicious software disguised as a homework helper app.  The software records every tap and swipe you make and sends it to an unauthorized individual.<br>
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ Thursday, January 30th 2025
         <li>Think before you click.</li>
         <li>Be mindful about what websites you visit.</li>
         <li>Use, strong, up-to-date antivirus / anti-malware software</li>
-        <li>In general, follow recommended cybersecurity practices (e.g. using strong passwords, beware of phishing scams, avoid public WiFi, secure your devices, keep your software updated, etc.) </li>
+        <li>In general, follow recommended cybersecurity practices (e.g. use strong passwords, beware of phishing scams, avoid public WiFi, secure your devices, keep your software updated, etc.) </li>
       </ul>
     </td>
   </tr>
