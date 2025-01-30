@@ -38,7 +38,7 @@ Thursday, January 30th 2025
 <table>
   <tr>
     <td><b>Keylogging Attack Definition</b></td>
-    <td>A keylogging attack takes place when malicious software or hardware is used to secretly capture inputs made by a user which are sent to an unauthorized individual.</td>
+    <td>A keylogging attack takes place when malicious software or hardware is used to secretly capture inputs made by a user which are secretly sent to an unauthorized individual.</td>
   </tr>
   <tr>
     <td><b>Key Components of a Keylogger Attack</b></td>
